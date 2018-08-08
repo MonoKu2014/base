@@ -1,0 +1,89 @@
+/*
+#02538b azul
+*/
+
+body {
+	background: #fff !important;
+}
+
+.navbar {
+	background: #02538b !important;
+}
+
+.icon-header > .white:hover {
+    color: #0a3b5c !important;
+}
+
+
+.blue > a {
+	color: #02538b !important;
+}
+
+.extend-btn {
+    border: 2px solid #fb4a04 !important;
+    font-size: 14px !important;
+    padding: 8px 14px !important;
+}
+
+.pagination {
+	background: none !important;
+}
+
+.pagination li a {
+    border: 2px solid #fb4a04;
+    color: #fb4a04;
+    font-weight: bold;
+    border-radius: 50% !important;
+    padding: 8px 14px !important;
+    margin-left: 2px;
+}
+
+	
+.btn {
+  display: inline-block;
+  padding: 12px 30px;
+  margin-bottom: 0;
+  font-size: 16px;
+  font-weight: normal;
+  line-height: 1.42857143;
+  text-align: center;
+  white-space: nowrap;
+  vertical-align: middle;
+  -ms-touch-action: manipulation;
+      touch-action: manipulation;
+  cursor: pointer;
+  -webkit-user-select: none;
+     -moz-user-select: none;
+      -ms-user-select: none;
+          user-select: none;
+  background-image: none;
+  border-radius:25px;
+  border:2px solid;
+}
+
+
+.btn-default {
+  color: #fb4a04;
+  background-color: #fff;
+  border-color: #fff;
+}
+
+.btn-default:hover {
+  color: #fff;
+  background-color: #fb4a04;
+  border-color: #fff;
+}		
+
+
+.acc_button {
+  border-radius: 0px !important;
+  border-bottom: 2px solid #0dcbab !important;
+  border-right: 2px solid #0dcbab !important;
+  border-left: 2px solid #0dcbab !important;
+  border-top: 2px solid #0dcbab !important;
+  color: #0dcbab;
+}
+
+.acc_button:hover, .acc_button:focus, .acc_button:active {
+  background: #30a08d !important;
+}
